@@ -5,7 +5,7 @@
 Having graduated from NJIT with a CS degree, I am currently doing my master's in Data Science at NJIT.
 
 - 🔭 I am currently working on: a few data science projects spanning multiple industries (pharma, tech, finance, etc).
-  - I will add that in my 'Data Science_industries' project folder. 
+  - I will add that in my 'Data Science_projects' folder. 
 - 🌱 I’m currently learning more about: GenAI, data science, the R language, and new models like XGBoost, LLMs (Perplexity AI, Chat-GPT 4, Google Gemini).
 - 👯 I’m looking forward to creating more exciting, innovative projects based on Python, SQL, R, and Java/Javascript.
 - 😄 Pronouns: he/him
