@@ -2,7 +2,7 @@
 
 ### My name is Akul Khugher and I am a passionate, hard-working data scientist. 
 
-Having graduated from NJIT with a CS degree, I am currently doing my master's in Data Science at NJIT.
+Having graduated from NJIT with a CS degree, I am currently doing my master's in Data Science.
 
 - 🔭 I am currently working on: a few data science projects spanning multiple industries (pharma, tech, finance, etc).
   - I will add that in my 'Data Science_projects' folder. 
